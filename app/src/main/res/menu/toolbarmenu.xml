@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/video_button"
+        android:icon="@drawable/video_call_30px"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/search_button"
+        android:icon="@drawable/search_30px"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/rounded_profile"
+        android:icon="@drawable/test_account_30px"
+        app:showAsAction="always"
+        />
+
+</menu>

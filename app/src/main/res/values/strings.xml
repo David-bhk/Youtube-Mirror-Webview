@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">YouTube</string>
+    <string name="logo" />
+    <string name="nav_logo" />
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_subscription">Subscriptions</string>
+    <string name="nav_notification">Notifications</string>
+    <string name="nav_library">Library</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">explore</string>
+</resources>
